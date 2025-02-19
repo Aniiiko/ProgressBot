@@ -1,0 +1,19 @@
+{
+  "name": "progress-bot",
+  "version": "1.0.0",
+  "description": "Progress bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hinczuk",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^11.5.1",
+    "eslint": "^6.8.0",
+    "numbro": "^2.1.2",
+    "sequelize": "^5.22.5",
+    "sqlite3": "^4.1.1"
+  }
+}
