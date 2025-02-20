@@ -1,4 +1,4 @@
 node_modules/
 *.sqlite3
 *.sqlite
-config.json
+.DS_Store
